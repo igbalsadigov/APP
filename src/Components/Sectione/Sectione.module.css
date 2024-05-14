@@ -1,0 +1,38 @@
+.also{
+    width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #FFFFFF;
+   margin-bottom: 40px;
+}
+.watch{
+    width: 80%;
+}
+.container{
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h2{
+    font-family: "Josefin Sans";
+}
+span{
+    font-family: "Josefin Sans";
+    color: red;
+}
+.coni{
+    padding: 40px;
+}
+h2{
+    font-size: 30px;
+    font-family: "Josefin Sans";
+}   
+.txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

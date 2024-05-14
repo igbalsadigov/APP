@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 30px;
+}
+img{
+    padding: 20px;
+}
+li{
+   list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    font-family: "Josefin Sans";
+    color: black;
+    font-size: 17px;
+}
+.icons{
+    display: flex;
+    gap: 40px;
+}
